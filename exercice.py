@@ -6,8 +6,7 @@ import math
 
 
 def average(a: float, b: float, c: float) -> float:
-    my_list = [a, b, c]
-    return (my_list / le.)
+    return (a+b+c) /3
     
 
 
