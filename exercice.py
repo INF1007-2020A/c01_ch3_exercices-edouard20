@@ -6,7 +6,7 @@ import math
 
 
 def average(a: float, b: float, c: float) -> float:
-    my_list = 9
+    my_list = 
     return 
     
 
