@@ -7,7 +7,7 @@ import math
 
 def average(a: float, b: float, c: float) -> float:
     my_list = [a, b, c]
-    return ()
+    return (my_list / le.)
     
 
 
